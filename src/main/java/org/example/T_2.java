@@ -1,6 +1,6 @@
 package org.example;
 
-public class T2 {
+public class T_2 {
     public static void main(String[] args) {
         int[] num={20,40,60,10,80};
         int sum=0;
